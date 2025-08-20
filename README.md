@@ -28,8 +28,8 @@ https://youtu.be/WQeoO7MI0Bs?si=yNpfwO9IH4o950dt
 ---
 
 ## 🔹 Progress
-- [ ] Setting up the environment  
-- [ ] Learning image basics (reading, writing, resizing)  
+- [x] Setting up the environment  
+- [x] Learning image basics (reading, writing, resizing)  
 - [ ] Applying filters and transformations  
 - [ ] Face detection with Haar cascades  
 - [ ] Object tracking  
@@ -41,5 +41,5 @@ https://youtu.be/WQeoO7MI0Bs?si=yNpfwO9IH4o950dt
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/mohadmohamed/computer-vision-1.git
-cd computer-vision-learning
-pip install -r requirements.txt
+cd computer-vision-1
+
