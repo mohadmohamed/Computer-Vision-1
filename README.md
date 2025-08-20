@@ -42,4 +42,4 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/mohadmohamed/computer-vision-1.git
 cd computer-vision-1
-
+pip install -r requirements.txt
