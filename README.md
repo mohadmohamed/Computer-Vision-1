@@ -40,6 +40,6 @@ https://youtu.be/WQeoO7MI0Bs?si=yNpfwO9IH4o950dt
 ## 🔹 How to Run
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/mohadmohamed/computer-vision-learning.git
+git clone https://github.com/mohadmohamed/computer-vision-1.git
 cd computer-vision-learning
 pip install -r requirements.txt
