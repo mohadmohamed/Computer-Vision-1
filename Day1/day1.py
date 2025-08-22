@@ -2,12 +2,12 @@
 # import numpy as np
 # print("package is imported")
 
-# #CHAPTER 1
-# #--------
-# # read image
-# # img = cv2.imread("Resources/Images/white Ferrari in space.jpeg")
-# # cv2.imshow("output",img)
-# # cv2.waitKey(0)
+#CHAPTER 1
+#--------
+# read image
+# img = cv2.imread("Resources/Images/white Ferrari in space.jpeg")
+# cv2.imshow("output",img)
+# cv2.waitKey(0)
 
 # # read video
 # # vid = cv2.VideoCapture("Resources/Videos/SampleVideo_1280x720_1mb.mp4")
@@ -31,7 +31,6 @@
 
 # #CHAPTER 2
 # #---------
-
 # #gray and blur image
 # img = cv2.imread("Resources/Images/white Ferrari in space.jpeg")
 # kernel = np.ones((5, 5), np.uint8) # 0 to 255
